@@ -1,1 +1,1 @@
-# photoshop
+# cg_assignment
